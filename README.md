@@ -3,7 +3,7 @@
 Как запустить приложение
 Клонируйте репозитории:
 
-git clone <ссылка-на-репозиторий>
+git clone [<ссылка-на-репозиторий>](https://github.com/Zinjers/OnlineStore)
 
 cd OnlineStore
 
